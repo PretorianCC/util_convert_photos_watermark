@@ -1,5 +1,5 @@
 name: convert_image
-version: 1.0.0
+version: 1.0.1
 author: Kurganov Sergey <pi_2002@mail.ru>
 dependencies:
   image: '^3.0.2'

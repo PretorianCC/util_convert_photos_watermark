@@ -1,9 +1,8 @@
 import 'dart:io';
-import "package:path/path.dart" show dirname, join;
+import "package:path/path.dart" show join;
 import 'dart:convert';
 import 'package:image/image.dart';
 import 'package:logging/logging.dart';
-import 'package:sqflite_common/sqlite_api.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 
 const fileNameConfig = 'config.json';
