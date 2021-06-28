@@ -1,0 +1,17 @@
+{
+  "fileSystem": {
+    "dirInput": "./AAFotoCross",
+    "dirOutput": "./ecFotoCross"
+  },
+  "logo": {
+    "path": "./watermark/substrate.png"
+  },
+  "image": {
+    "maxWidth": 1920,
+    "maxHeight": 1080
+  },
+  "log": {
+    "path": "./logs/",
+    "name": "combined.log"
+  }
+}

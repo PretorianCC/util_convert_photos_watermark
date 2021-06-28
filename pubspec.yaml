@@ -1,0 +1,9 @@
+name: convert_image
+version: 1.0.0
+author: Kurganov Sergey <pi_2002@mail.ru>
+dependencies:
+  image: '^3.0.2'
+  logging: '^1.0.1'
+  sqflite_common_ffi: ^2.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
